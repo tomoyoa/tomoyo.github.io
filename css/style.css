@@ -1,0 +1,26 @@
+/* Common Style -------------------------- */
+body{
+    font-size:14px;
+    font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", "Yu Gothic", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo,"ヒラギノ 明朝 ProN W3",Hiragino Mincho proN, sans-serif;
+    line-height:1.6;
+    font-weight:normal;
+    background-color: #F4F4F4;
+}
+a{
+    color:#CCC;
+    text-decoration: none;
+}
+a:hover{
+    color:#DDD;
+    text-decoration: none;
+}
+
+/* Header */
+div{background-color: #eee}
+header{
+    width: 100%;
+    height: 700px;
+    background: #F4F4F4 url(../img/topphoto1.png) center center no-repeat;
+    background-size: cover;
+    position: relative;
+}
